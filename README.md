@@ -7,19 +7,19 @@
   <img align="left" alt="Silvia's Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
 </a>
 -->
-<a href="https://github.com/JauntyJJS">
+<a href="https://github.com/JauntyJJS" target="_blank">
   <img align="left" alt="Jeremy's Github" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/github.svg" />
 </a>
-<a href="https://sg.linkedin.com/in/jeremy-selva-085b9112a">
-  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/linkedin.svg" />
+<a href="https://sg.linkedin.com/in/jeremy-selva-085b9112a" target="_blank">
+  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/linkedin.svg"  />
 </a>
-<a href="https://bsky.app/profile/jauntyjjs.bsky.social">
+<a href="https://bsky.app/profile/jauntyjjs.bsky.social" target="_blank">
   <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bluesky.svg" />
 </a>
-<a href="https://fosstodon.org/@JauntyJJS">
+<a href="https://fosstodon.org/@JauntyJJS" target="_blank">
   <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mastodon.svg" />
 </a>
-<a href="https://twitter.com/jauntyjjs">
+<a href="https://twitter.com/jauntyjjs" target="_blank">
   <img align="left" alt="Jeremy's Twitter" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/x-twitter.svg" />
 </a>
 <br>

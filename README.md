@@ -8,13 +8,19 @@
 </a>
 -->
 <a href="https://github.com/JauntyJJS">
-  <img align="left" alt="Jeremy's Github" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/f0c25837a3fe0e03783b939559e088abcbfb3c4b/svgs/brands/github.svg" />
+  <img align="left" alt="Jeremy's Github" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/github.svg" />
 </a>
 <a href="https://sg.linkedin.com/in/jeremy-selva-085b9112a">
-  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/f0c25837a3fe0e03783b939559e088abcbfb3c4b/svgs/brands/linkedin.svg" />
+  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/linkedin.svg" />
+</a>
+<a href="https://bsky.app/profile/jauntyjjs.bsky.social">
+  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bluesky.svg" />
+</a>
+<a href="https://fosstodon.org/@JauntyJJS">
+  <img align="left" alt="Jeremy's LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mastodon.svg" />
 </a>
 <a href="https://twitter.com/jauntyjjs">
-  <img align="left" alt="Jeremy's Twitter" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/f0c25837a3fe0e03783b939559e088abcbfb3c4b/svgs/brands/x-twitter.svg" />
+  <img align="left" alt="Jeremy's Twitter" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/x-twitter.svg" />
 </a>
 <br>
 
